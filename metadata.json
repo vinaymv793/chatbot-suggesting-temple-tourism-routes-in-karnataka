@@ -1,0 +1,5 @@
+{
+  "name": "Karnataka Temple Tourism Chatbot",
+  "description": "A chatbot that suggests temple tourism routes in Karnataka, providing information in both English and Kannada with temple images and brief histories. The app features a red and yellow theme inspired by the Kannada Rajyotsava flag.",
+  "requestFramePermissions": []
+}
